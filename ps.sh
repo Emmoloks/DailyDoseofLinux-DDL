@@ -1,0 +1,3 @@
+#!/bin/bash
+ps
+# ps displays information about a selection of the active processes.
